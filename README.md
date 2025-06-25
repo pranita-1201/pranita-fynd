@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jewelry Store Application
 
 A full-stack e-commerce application for a jewelry store built with the MERN stack (MongoDB, Express.js, React, Node.js).
@@ -98,3 +99,6 @@ npm start
 ## License
 
 This project is licensed under the MIT License.
+=======
+# pranita-fynd
+>>>>>>> 304817aa65f0feb32c71b718e02c1dedb86223a3
